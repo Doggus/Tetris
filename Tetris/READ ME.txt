@@ -1,0 +1,19 @@
+Simply Running the Program Will start the game
+
+Controls are listed on the left when playing the game but I will list them here anyway
+
+Controls:
+Left Arrow key: Move left
+Right Arrow key: Move right
+Down Arrow key: Move down
+Hold Down Arrow key: Move down rapidly
+Up Arrow key: Rotate
+Spacebar: send tetromino straight to the bottom
+Q key: Quits game
+
+
+Note to tutor:
+Its a shame that Since I was so busy that I ended up neglegting this assignment but I enjoyed it nonetheless. 
+Sadly I didnt have enough time to implement any new mechanic to the game (which was the part I was really excited for)
+so there is no need to look out for that. I did however create a background, score tally and add music and sound effects to the base game. 
+There is really nothing else noteworthy to say about my code so I will leave you to it. Enjoy the rest of your day.
